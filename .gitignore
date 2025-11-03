@@ -2,4 +2,5 @@ venv/
 .venv/
 scrape.py
 .git
+.env
 
